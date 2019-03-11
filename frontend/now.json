@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "Indorse Test",
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@now/static-build"
+    }
+  ]
+}
